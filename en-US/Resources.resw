@@ -151,7 +151,7 @@
     <value>Remove line breaks</value>
   </data>
   <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Select text from image</value>
+    <value>Recognize text from image</value>
   </data>
   <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Re-recognize text</value>
@@ -205,13 +205,13 @@
     <value>Enable hotkeys</value>
   </data>
   <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
-    <value>Select text and copy to clipboard</value>
+    <value>Recognize text and copy to clipboard</value>
   </data>
   <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
-    <value>Select text and translate</value>
+    <value>Recognize text and translate</value>
   </data>
   <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
-    <value>Select text and open in editor</value>
+    <value>Recognize text and open in editor</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Type a hotkey</value>
