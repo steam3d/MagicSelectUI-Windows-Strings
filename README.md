@@ -1,0 +1,1 @@
+# MagicSelectUI-Windows-Strings
