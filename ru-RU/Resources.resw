@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -77,5 +77,83 @@
   </data>
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
     <value>Выделенная область не содержит текста</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Использовать оформление системы</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+    <value>Оформление</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Настройки приложения</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+    <value>Распознавание</value>
+  </data>
+  <data name="Settings_Translation_From.Header" xml:space="preserve">
+    <value>Перевод</value>
+  </data>
+  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Как раскладка клавиатуры</value>
+  </data>
+  <data name="Settings_Translation_To.Text" xml:space="preserve">
+    <value>Перевести на язык</value>
+  </data>
+  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Использовать язык системы</value>
+  </data>
+  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+    <value>Горячие клавиши</value>
+  </data>
+  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+    <value>Включить горячие клавиши</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Начните с Win, Shift, Alt или Ctrl клавиш</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Очистить сочетание</value>
+  </data>
+  <data name="Settings_About_Log.Content" xml:space="preserve">
+    <value>Журнал ошибок</value>
+  </data>
+  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Использовать язык системы</value>
+  </data>
+  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+    <value>Журнал ошибок</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>Распознать текст</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>Перевести</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Светлая</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Темная</value>
+  </data>
+  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Введите сочетание клавиш</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>Помощь</value>
+  </data>
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Переводите, редактируйте или добавляйте новые языки</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Как раскладка клавиатуры</value>
   </data>
 </root>
