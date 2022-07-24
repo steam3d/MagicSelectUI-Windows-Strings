@@ -70,7 +70,7 @@
     <value>Удалить переносы</value>
   </data>
   <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Распознать текст с изображения</value>
+    <value>Выделить текст на изображения</value>
   </data>
   <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Повторно распознать текст</value>
@@ -147,7 +147,7 @@
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>Помощь</value>
   </data>
-  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Переводите, редактируйте или добавляйте новые языки</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
@@ -165,7 +165,7 @@
   <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
     <value>Распознать текст и открыть в редакторе</value>
   </data>
-  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Добавьте немного магии в AirPods</value>
   </data>
   <data name="Settings_Translation_From.Text" xml:space="preserve">

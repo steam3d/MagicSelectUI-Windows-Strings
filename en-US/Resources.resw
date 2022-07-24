@@ -151,7 +151,8 @@
     <value>Remove line breaks</value>
   </data>
   <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Recognize text from image</value>
+    <value>Select text on image</value>
+    
   </data>
   <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Re-recognize text</value>
@@ -228,10 +229,10 @@
   <data name="Settings_About_Log.Content" xml:space="preserve">
     <value>Debug log</value>
   </data>
-  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Add a little magic to your AirPods</value>
   </data>
-  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Translate, edit or add new languages</value>
   </data>
   <data name="Settings_Translation_From.Text" xml:space="preserve">
