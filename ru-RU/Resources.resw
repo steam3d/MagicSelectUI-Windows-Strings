@@ -70,7 +70,7 @@
     <value>Удалить переносы</value>
   </data>
   <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Выделить текст с изображения</value>
+    <value>Распознать текст с изображения</value>
   </data>
   <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Повторно распознать текст</value>
@@ -155,5 +155,53 @@
   </data>
   <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Как раскладка клавиатуры</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+    <value>Распознать текст и скопировать в буфер обмена</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+    <value>Распознать текст и перевести</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+    <value>Распознать текст и открыть в редакторе</value>
+  </data>
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Добавьте немного магии в AirPods</value>
+  </data>
+  <data name="Settings_Translation_From.Text" xml:space="preserve">
+    <value>Перевести с языка</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Увеличить изображение</value>
+  </data>
+  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+    <value>Сбросить до заводских настроек</value>
+  </data>
+  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>Сбросить</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>Автозагрузка отключена вручную</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>Перейти к Автозагрузке</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>Включить</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>Отключить</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>Копировать в буфер обмена</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>Открыть файл</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>Сделать скриншот</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
+    <value>Открой настройки Windows, на странице приложения выберите Автозагрузка, включите «MagicSelect Hotkeys» и перезапустите приложение.</value>
   </data>
 </root>
