@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,172 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>متن کاپی کریں</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>اسکرین سے متن کاپی کرنے کے لیے {0} دبائیں یا متن کی شناخت کے لیے تصویری فائل کو یہاں چھوڑیں</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>متن کی شناخت کے لیے تصویری فائل کو یہاں ڈراپ کریں</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>تصویر میں کوئی متن نہیں ملا</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>متن کو پہچانیں</value>
+  </data>
+  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>لائن بریکس کو ہٹا دیں</value>
+  </data>
+  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>متن کو دوبارہ پہچانیں</value>
+  </data>
+  <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
+    <value>نتخب کردہ علاقے میں کوئی متن نہیں ہے</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>دهیما</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>تاریک</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+    <value>خیالیہ</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>سسٹم خیالیہ استعمال کریں</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>اپلیکیشن کی ترتیبات</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+    <value>زبان</value>
+  </data>
+  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+    <value>پہچان</value>
+  </data>
+  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+    <value>زبان</value>
+  </data>
+  <data name="Settings_Translation_From.Header" xml:space="preserve">
+    <value>ترجمہ</value>
+  </data>
+  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>کی بورڈ لے آؤٹ کی طرح</value>
+  </data>
+  <data name="Settings_Translation_To.Text" xml:space="preserve">
+    <value>زبان میں ترجمہ کریں</value>
+  </data>
+  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>سسٹم کی زبان استعمال کریں</value>
+  </data>
+  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+    <value>ہاٹکیز</value>
+  </data>
+  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+    <value>ہاٹکیز کو فعال کریں</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+    <value>متن کو پہچانیں اور کلپ بورڈ پر کاپی کریں</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+    <value>متن کو پہچانیں اور ترجمہ کریں</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>ہاٹکی ٹائپ کریں</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win، Shift، Alt یا Ctrl کلید شامل کریں</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ہاٹکی کو ہٹا دیں</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>مدد لو</value>
+  </data>
+  <data name="Settings_About_Log.Content" xml:space="preserve">
+    <value>ڈیبگ لاگ</value>
+  </data>
+  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>ترجمہ کریں، ترمیم کریں یا نئی زبانیں شامل کریں</value>
+  </data>
+  <data name="Settings_Translation_From.Text" xml:space="preserve">
+    <value>زبان سے ترجمہ کریں</value>
+  </data>
+  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>سسٹم کی زبان استعمال کریں</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>تصویر کو زوم کریں</value>
+  </data>
+  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+    <value>ڈیبگ لاگ</value>
+  </data>
+  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>دوبارہ ترتیب دیں</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>منسوخ کریں</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>فعال</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>غیر فعال</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>متن کو پہچانیں</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>کلپ بورڈ پر کاپی کریں</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>ترجمہ کریں</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>فائل کھولو</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>اسکرین کی تصویر لیں</value>
+  </data>
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>متن کی زبان کا انتخاب کریں</value>
+  </data>
+  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+    <value>تصویر کے طول و عرض ({0}x{1}) متن کی شناخت کے لیے بہت بڑے ہیں۔ تصویر کی زیادہ سے زیادہ جہت {2} ہے۔</value>
+    <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
+  </data>
+  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+    <value>کیپچر کی گئی ایپلیکیشن کم سے کم دکھائی دیتی ہے۔ ایپ کو پھیلائیں اور دوبارہ اسکرین شاٹ لینے کی کوشش کریں۔</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>ہاٹکی {0}</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>تصویر پر متن منتخب کریں</value>
+  </data>
+  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>کی بورڈ لے آؤٹ کی طرح</value>
+  </data>
+  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+    <value>متن کو پہچانیں اور ایڈیٹر میں کھولیں</value>
+  </data>
+  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>اپنے ایئر پوڈز میں تھوڑا سا جادو شامل کریں</value>
+  </data>
+  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+    <value>ڈیفالٹ سیٹنگز پر ری سیٹ کریں</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>اسٹارٹ اپ دستی طور پر غیر فعال ہے</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>اسٹارٹ اپ پر جائیں</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
+    <value>ایپلیکیشن پیج پر ونڈوز سیٹنگز کھولیں، اسٹارٹ اپ پر جائیں، «Magic Select Hotkeys» کو فعال کریں اور ایپ کو دوبارہ شروع کریں۔</value>
+  </data>
 </root>
