@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Скапіруйце тэкст</value>
+  </data>
+  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+    <value>Памеры выявы ({0}x{1}) занадта вялікія для распазнання тэксту. Максімальны памер выявы складае {2}.</value>
+    <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Перацягніце сюды файл выявы для распазнання тэксту</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>На малюнку тэкст не знойдзены</value>
+  </data>
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Выберыце мову тэксту</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>Націсніце {0}, каб скапіяваць тэкст з экрана, або перацягніце сюды файл выявы для распазнавання тэксту</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
 </root>
