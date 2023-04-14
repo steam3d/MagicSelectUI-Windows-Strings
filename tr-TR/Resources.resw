@@ -72,4 +72,22 @@
     <value>Görüntü boyutları ({0}x{1}) metin tanıma için çok büyük. Maksimum görüntü boyutu {2}'dir.</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>
+  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Uygulama ayarları</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Aydınlık</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Karanlık</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Sistem temasını kullan</value>
+  </data>
 </root>
