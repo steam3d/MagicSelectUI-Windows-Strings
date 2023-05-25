@@ -90,4 +90,20 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Sistem temasını kullan</value>
   </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Metni tanımlamak için dosyayı buraya bırakınız</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>Resmin için yazı bulunamadı</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Metni tanımla</value>
+  </data>
+  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+    <value>Uygulama simge durumuna küçültülmüş görünüyor. Uygulamayı açın ve ekran görüntüsü almayı tekrar deneyin</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>Kısayol</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
 </root>
