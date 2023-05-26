@@ -103,7 +103,7 @@
     <value>Uygulama simge durumuna küçültülmüş görünüyor. Uygulamayı açın ve ekran görüntüsü almayı tekrar deneyin</value>
   </data>
   <data name="Tooltip_Hotkey" xml:space="preserve">
-    <value>Kısayol</value>
+    <value>Kısayol {0}</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
 </root>
