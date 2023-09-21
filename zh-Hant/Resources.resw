@@ -169,7 +169,7 @@
     <value>重設</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
-    <value>前往啟動程式設定</value>
+    <value>前往啟動項目</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
     <value>取消</value>
