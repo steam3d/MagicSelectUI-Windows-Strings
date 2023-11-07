@@ -192,4 +192,73 @@
   <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
     <value>Открой настройки Windows, на странице приложения выберите Автозагрузка, включите «MagicSelect Hotkeys» и перезапустите приложение.</value>
   </data>
+  <data name="Taskbar_Tooltip_OpenEditor" xml:space="preserve">
+    <value>Двойной клик, чтобы открыть редактор</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Notepad.Text" xml:space="preserve">
+    <value>Блокнот</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>Открыть блокнот</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>Закрепить область</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>Пипетка</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>Не удалось захватить изображение</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>Редактировать область</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>Закрепить область</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>Пипетка</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>Перевести текст</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>Копировать текст</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Выделить область и открыть в редакторе</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Выделить область и закрепить</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Скопировать цвет с экрана</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Распознать и перевести текст</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Распознать и скопировать текст</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Да, сбросить</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Все настройки будут сброшены. Вы хотите продолжить?</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>Запускать при старте системы</value>
+  </data>
 </root>
