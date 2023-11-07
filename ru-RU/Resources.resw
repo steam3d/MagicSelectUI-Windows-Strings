@@ -192,9 +192,6 @@
   <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
     <value>Открой настройки Windows, на странице приложения выберите Автозагрузка, включите «MagicSelect Hotkeys» и перезапустите приложение.</value>
   </data>
-  <data name="Taskbar_Tooltip_OpenEditor" xml:space="preserve">
-    <value>Двойной клик, чтобы открыть редактор</value>
-  </data>
   <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
     <value>Выход</value>
   </data>
