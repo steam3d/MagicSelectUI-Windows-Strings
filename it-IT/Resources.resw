@@ -58,13 +58,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Copia testo</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Scegli lingua di testo</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Le dimensioni dell'immagine ({0}x{1}) sono troppo grandi per il riconoscimento del testo. Le dimensioni massime sono {2}.</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>

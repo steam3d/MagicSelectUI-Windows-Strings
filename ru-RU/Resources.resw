@@ -42,13 +42,13 @@
   <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
     <value>Распознать текст</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Выберите язык текста</value>
   </data>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Копировать текст</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Разрешение изображения ({0}x{1}) слишком большое для средства распознавания текста. Максимальное разрешение изображения {2}.</value>
   </data>
   <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
@@ -60,19 +60,19 @@
   <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
     <value>Не найден текст на изображении</value>
   </data>
-  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
     <value>Захватываемое приложение свернуто. Разверните приложение и попытайтесь сделать скриншот снова.</value>
   </data>
   <data name="Tooltip_Hotkey" xml:space="preserve">
     <value>Горячая клавиша {0}</value>
   </data>
-  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>Удалить переносы</value>
   </data>
-  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Выделить текст на изображения</value>
   </data>
-  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Повторно распознать текст</value>
   </data>
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
@@ -81,49 +81,40 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Использовать оформление системы</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
     <value>Оформление</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
     <value>Настройки приложения</value>
   </data>
-  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
     <value>Язык</value>
   </data>
-  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
     <value>Распознавание</value>
   </data>
-  <data name="Settings_Translation_From.Header" xml:space="preserve">
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
     <value>Перевод</value>
   </data>
-  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Как раскладка клавиатуры</value>
   </data>
-  <data name="Settings_Translation_To.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
     <value>Перевести на язык</value>
   </data>
-  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
     <value>Использовать язык системы</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
     <value>Горячие клавиши</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
     <value>Включить горячие клавиши</value>
-  </data>
-  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Начните с Win, Shift, Alt или Ctrl клавиш</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Очистить сочетание</value>
   </data>
   <data name="Settings_About_Log.Content" xml:space="preserve">
     <value>Журнал ошибок</value>
   </data>
-  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
-    <value>Использовать язык системы</value>
-  </data>
-  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
     <value>Журнал ошибок</value>
   </data>
   <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
@@ -138,46 +129,43 @@
   <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
     <value>Темная</value>
   </data>
-  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
     <value>Язык</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Введите сочетание клавиш</value>
   </data>
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>Помощь</value>
   </data>
-  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
     <value>Переводите, редактируйте или добавляйте новые языки</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Как раскладка клавиатуры</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
     <value>Распознать текст и скопировать в буфер обмена</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
     <value>Распознать текст и перевести</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
     <value>Распознать текст и открыть в редакторе</value>
   </data>
-  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
     <value>Добавьте немного магии в AirPods</value>
   </data>
-  <data name="Settings_Translation_From.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
     <value>Перевести с языка</value>
   </data>
-  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Увеличить изображение</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Сбросить до заводских настроек</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
     <value>Сбросить</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">

@@ -58,7 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Text kopieren</value>
   </data>
   <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
@@ -74,17 +74,17 @@
   <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
     <value>Erkennen von Text</value>
   </data>
-  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
     <value>Die erfasste Anwendung scheint minimiert zu sein. Erweitern Sie die Anwendung und versuchen Sie erneut, den Screenshot aufzunehmen.</value>
   </data>
   <data name="Tooltip_Hotkey" xml:space="preserve">
     <value>Tastenkombination {0}</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
-  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>Zeilenumbrüche entfernen</value>
   </data>
-  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Text im Bild auswählen</value>
   </data>
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
@@ -99,53 +99,44 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>System Design verwenden</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
     <value>Design</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
     <value>Einstellungen</value>
   </data>
-  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
     <value>Sprache</value>
   </data>
-  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
     <value>Erkennung</value>
   </data>
-  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
     <value>Sprache</value>
   </data>
-  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Gleiches Layout wie bei der Tastatur</value>
   </data>
-  <data name="Settings_Translation_From.Header" xml:space="preserve">
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
     <value>Übersetzung</value>
   </data>
-  <data name="Settings_Translation_To.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
     <value>Übersetzen in die Sprache</value>
   </data>
-  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
     <value>Systemsprache verwenden</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
     <value>Tastenkombinationen</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
     <value>Tastenkombinationen aktivieren</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
     <value>Erkennen von Text und Kopieren in die Zwischenablage</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
     <value>Erkennen von Text und Öffnen im Editor</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Einen Hotkey eingeben</value>
-  </data>
-  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Inklusive Win-, Umschalt-, Alt- oder Strg-Taste</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Tastenkombination entfernen</value>
   </data>
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>Hilfe bekommen</value>
@@ -153,22 +144,19 @@
   <data name="Settings_About_Log.Content" xml:space="preserve">
     <value>Debug-Protokoll</value>
   </data>
-  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
     <value>Verleihe deinen AirPods ein wenig Magie</value>
   </data>
-  <data name="Settings_Translation_From.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
     <value>Übersetzen von Sprache</value>
   </data>
-  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
-    <value>Systemsprache verwenden</value>
-  </data>
-  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Bild vergrößern</value>
   </data>
-  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
     <value>Debug-Protokoll</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
@@ -192,26 +180,26 @@
   <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
     <value>Screenshot machen</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Textsprache wählen</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Die Bildgröße ({0}x{1}) ist für die Texterkennung zu groß. Die maximale Bildgröße ist {2}.</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>
-  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Text wiedererkennen</value>
   </data>
-  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Gleiches Layout wie bei der Tastatur</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
     <value>Erkennen von Text und Übersetzen</value>
   </data>
-  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
     <value>Übersetzen, bearbeiten oder neue Sprachen hinzufügen</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Zurücksetzen auf Standardeinstellungen</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">

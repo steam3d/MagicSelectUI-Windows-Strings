@@ -58,22 +58,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
     <value>語言</value>
   </data>
-  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
     <value>識別</value>
   </data>
-  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>與鍵盤布局相同</value>
   </data>
-  <data name="Settings_Translation_From.Header" xml:space="preserve">
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
     <value>翻譯</value>
   </data>
-  <data name="Settings_Translation_To.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
     <value>翻譯成的語言</value>
   </data>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>複製文字</value>
   </data>
   <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
@@ -89,17 +89,17 @@
   <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
     <value>識別文字</value>
   </data>
-  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
     <value>擷取的應用程式似乎被最小化了。展開應用程式並再次嘗試截取螢幕截圖。</value>
   </data>
   <data name="Tooltip_Hotkey" xml:space="preserve">
     <value>快速鍵 {0}</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
-  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
     <value>在圖片上選取文字</value>
   </data>
-  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
     <value>重新識別文字</value>
   </data>
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
@@ -114,32 +114,23 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>使用系統預設值</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
     <value>佈景主題</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
     <value>應用程式設定</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
     <value>快捷鍵</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
     <value>啟用快捷鍵</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
     <value>識別文字並複製到剪貼簿</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
     <value>識別文字並進行翻譯</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>輸入快速鍵</value>
-  </data>
-  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>包含 Windows (Win) 鍵、Shift 鍵、Alt 鍵或 Ctrl 鍵</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>移除快速鍵</value>
   </data>
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>取得協助</value>
@@ -147,25 +138,22 @@
   <data name="Settings_About_Log.Content" xml:space="preserve">
     <value>除錯記錄檔</value>
   </data>
-  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
     <value>翻譯、編輯或新增新的語言</value>
   </data>
-  <data name="Settings_Translation_From.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
     <value>從語言翻譯</value>
   </data>
-  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
-    <value>使用系統語言</value>
-  </data>
-  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
     <value>縮放圖片</value>
   </data>
-  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
     <value>除錯記錄檔</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
     <value>恢復預設設定</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
     <value>重設</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
@@ -195,26 +183,26 @@
   <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
     <value>螢幕截圖</value>
   </data>
-  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
     <value>語言</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>圖片尺寸 ({0}x{1}) 太大，無法進行文字識別。最大圖片尺寸為 {2}。</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>
-  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>移除換行符號</value>
   </data>
-  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>與鍵盤布局相同</value>
   </data>
-  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
     <value>使用系統語言</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
     <value>識別文字並在編輯器中打開</value>
   </data>
-  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
     <value>為您的 AirPods 加入一點魔力</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
@@ -223,7 +211,7 @@
   <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
     <value>在 Windows 設定的應用程式頁面上，進入「啟動」，啟用「MagicSelect Hotkeys」，然後重新啟動該應用程式。</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>選擇文字語言</value>
   </data>
 </root>

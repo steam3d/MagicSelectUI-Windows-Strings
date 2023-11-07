@@ -58,7 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>पाठ कॉपी करें</value>
   </data>
   <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
@@ -70,10 +70,10 @@
   <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
     <value>पाठ को पहचानें</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>टेक्स्ट भाषा चुनें</value>
   </data>
-  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>लाइन ब्रेक हटाएं</value>
   </data>
 </root>

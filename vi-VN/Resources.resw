@@ -58,26 +58,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Chọn ngôn ngữ</value>
   </data>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Sao chép văn bản</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Kích thước hình ảnh ({0}x{1}) là quá lớn để nhận dạng văn bản. Kích thước hình ảnh tối đa là {2}.</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>
-  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
     <value>Ngôn ngữ</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Chọn giao diện theo hệ thống</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
     <value>Giao diện</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
     <value>Cài đặt ứng dụng</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -92,56 +92,44 @@
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
     <value>Vùng mà bạn chọn không có chữ</value>
   </data>
-  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Chọn chữ trong hình ảnh</value>
   </data>
   <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
     <value>Thả tập tin ảnh ở đây để nhận dạng chữ</value>
   </data>
-  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
     <value>Ngôn ngữ</value>
   </data>
   <data name="Tooltip_Hotkey" xml:space="preserve">
     <value>Hotkey {0}</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
-  <data name="Settings_Translation_From.Header" xml:space="preserve">
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
     <value>Dịch</value>
   </data>
-  <data name="Settings_Translation_From.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
     <value>Dịch từ ngôn ngữ</value>
   </data>
-  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Giống với bố cục bàn phím</value>
   </data>
-  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
     <value>Sử dụng ngôn ngữ hệ thống</value>
   </data>
-  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
-    <value>Sử dụng ngôn ngữ hệ thống</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Gõ một hotkey</value>
-  </data>
-  <data name="Settings_Translation_To.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
     <value>Dịch sang tiếng</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Xoá hotkey</value>
-  </data>
-  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Bao gồm phím Win, Shift, Alt hoặc Ctrl</value>
   </data>
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>Nhận trợ giúp</value>
   </data>
-  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Giống với bố cục bàn phím</value>
   </data>
   <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
     <value>Sao chép tới clipboard</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Khôi phục về cài đặt mặc định</value>
   </data>
   <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
@@ -168,10 +156,10 @@
   <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
     <value>Không có chữ trong hình ảnh</value>
   </data>
-  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Nhận dạng lại chữ</value>
   </data>
-  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
     <value>Dịch, chỉnh sửa và thêm ngôn ngữ mới</value>
   </data>
   <data name="DropFiles_MainHelpText.Text" xml:space="preserve">

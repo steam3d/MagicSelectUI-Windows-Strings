@@ -62,7 +62,7 @@
     <value>Gyorsgomb {0}</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
-  <data name="DropFiles_Button_CopyText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Szöveg másolása</value>
   </data>
   <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
@@ -72,10 +72,10 @@
   <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
     <value>Húzzon be egy kép fájlt ide a szöveg felismeréshez</value>
   </data>
-  <data name="DropFiles_Button_SelectORCText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Szöveg kiválasztása a képen</value>
   </data>
-  <data name="DropFiles_Button_UpdateExtractedText.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
     <value>Szöveg újra felismerése</value>
   </data>
   <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
@@ -90,50 +90,44 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Haszálja a rendszer témáját</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
     <value>Téma</value>
   </data>
-  <data name="Settings_AppSettings_Language.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
     <value>Nyelv</value>
   </data>
-  <data name="Settings_Recognition_Language.Header" xml:space="preserve">
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
     <value>Felismerés</value>
   </data>
-  <data name="Settings_Recognition_Language.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
     <value>Nyelv</value>
   </data>
-  <data name="Settings_Recognition_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Billentyűzet kiosztásával azonos</value>
   </data>
-  <data name="Settings_Translation_From.Header" xml:space="preserve">
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
     <value>Fordítás</value>
   </data>
-  <data name="Settings_Translation_From_Item_KeyboardLayout.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
     <value>Billentyűzet kiosztásával azonos</value>
   </data>
-  <data name="Settings_Translation_To.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
     <value>Nyelv fordítás</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Header" xml:space="preserve">
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
     <value>Gyorsgomok</value>
   </data>
-  <data name="Settings_Hotkeys_EnableHotkeys.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
     <value>Gyorsgombok engedélyezése</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToClipboard.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
     <value>Szöveg felismerés és vágólapra másolása</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToTranslate.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
     <value>Szöveg felismerés és fordítás</value>
   </data>
-  <data name="Settings_Hotkeys_SelectToEdit.Text" xml:space="preserve">
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
     <value>Szöveg felismerés és megnyitás szerkesztőben</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Nyomja a gyorsgombot</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Gyorsgomb eltávolítása</value>
   </data>
   <data name="Settings_About_Help.Content" xml:space="preserve">
     <value>Segítség kérés</value>
@@ -141,25 +135,22 @@
   <data name="Settings_About_Log.Content" xml:space="preserve">
     <value>Debug Log</value>
   </data>
-  <data name="Settings_About_MagicPods.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
     <value>Adjon egy kis varázslatot az Airpods-hoz</value>
   </data>
-  <data name="Settings_Translation_From.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
     <value>Fordítás nyelvről</value>
   </data>
-  <data name="Settings_AppSettings_Language_Item_SystemLanguage.Text" xml:space="preserve">
-    <value>Rendszer nyelvével azonos</value>
-  </data>
-  <data name="DropFiles_Button_ZoomImage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Kép nagyítás</value>
   </data>
-  <data name="Settings_AppSettings_DebugLog.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
     <value>Debug Log</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings.Text" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Gyári beállításokra visszaállítás</value>
   </data>
-  <data name="Settings_AppSettings_ResetSettings_Button_Reset.Content" xml:space="preserve">
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
     <value>Visszaállítás</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
@@ -189,10 +180,10 @@
   <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
     <value>Fájl megnyitása</value>
   </data>
-  <data name="DropFiles_ComboBox_ChooseTextLanguage.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Válassza ki a szöveg nyelvet</value>
   </data>
-  <data name="DropFiles_Error_MaxDimension" xml:space="preserve">
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Kép dimenziók ({0}x{1}) túl nagy a szöveg felismeréshez. Legnagyobb kép dimenzió {2}.</value>
     <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
   </data>
@@ -202,22 +193,19 @@
   <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
     <value>Szöveg felismerés</value>
   </data>
-  <data name="GetScreenCapture_TimeOut_Error" xml:space="preserve">
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
     <value>A felvett alkalmazás úgy tűnik a tálcára került. Nyissa meg az alkalmazást és próbáljon újra képernyőképet készíteni.</value>
   </data>
-  <data name="DropFiles_Button_RemoveLineBreaks.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>Sor törés eltávolítása</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
     <value>Alkalmazás beállítások</value>
   </data>
-  <data name="Settings_Translation_To_Item_SystemLanguage.Text" xml:space="preserve">
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
     <value>Rendszer nyelvével azonos</value>
   </data>
-  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Tartalmazza a Win, Shift, Alt vagy Ctrl gombot</value>
-  </data>
-  <data name="Settings_About_Weblate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
     <value>Fordítás, szerkesztés vagy új nyelv hozzáadása</value>
   </data>
   <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
