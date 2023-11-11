@@ -214,4 +214,70 @@
   <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>選擇文字語言</value>
   </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>打開記事本</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>是的，重設設定</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>識別文字並複製</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>識別文字並翻譯</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>從螢幕複製顏色</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>選取一個區域並在編輯器中打開</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>複製文字</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>翻譯文字</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>釘選區域</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>編輯區域</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Notepad.Text" xml:space="preserve">
+    <value>記事本</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>釘選區域</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>吸管工具</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>開機啟動</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>擷取圖片失敗</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>吸管工具</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>所有設定將被重設。您確定要繼續嗎？</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>選取一個區域並釘選</value>
+  </data>
 </root>
