@@ -72,4 +72,23 @@
     <value>Premi {0} per copiare il testo dallo schermo oppure rilascia un'immagine qui per il riconoscimento del testo</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>Nessun testo trovato nell’immagine</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Riconosci il testo</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>Tasto di scelta rapida {0}</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rimuovi interruzioni di riga</value>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Rilascia qui il file immagine per il riconoscimento del testo</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>L’applicazione catturata sembra essere minimizzata. Espandi l’app e prova a fare di nuovo uno screenshot.</value>
+  </data>
 </root>
