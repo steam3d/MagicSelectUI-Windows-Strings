@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,226 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Użyj języka systemu</value>
+  </data>
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Dodaj odrobinę magii do swoich AirPods'ów</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
+    <value>Otwórz ustawienia systemu Windows, przejdź do zakładki "Aplikacje", przejdź do "Uruchamianie", włącz "MagicSelect Hotkeys" i uruchom ponownie aplikację.</value>
+  </data>
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Wybierz język tekstu</value>
+  </data>
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Skopiuj tekst</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>Naciśnij {0}, aby skopiować tekst z ekranu lub upuść tutaj plik obrazu w celu rozpoznania tekstu</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Upuść tutaj plik obrazu, aby rozpoznać tekst</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>Nie znaleziono tekstu w obrazie</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Rozpoznaj tekst</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>Przechwycona aplikacja wydaje się być zminimalizowana. Zmaksymalizuj aplikację i spróbuj ponownie wykonać zrzut ekranu.</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>Skrót klawiszowy {0}</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
+    <value>Rozmiar obrazu ({0}x{1}) jest zbyt duży do rozpoznawania tekstu. Maksymalny rozmiar obrazu to {2}.</value>
+    <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
+  </data>
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
+    <value>Przetłumacz na język</value>
+  </data>
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
+    <value>Skróty klawiszowe</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
+    <value>Włącz skróty klawiszowe</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
+    <value>Rozpoznaj tekst i skopiuj do schowka</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
+    <value>Rozpoznaj tekst i przetłumacz</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
+    <value>Rozpoznaj tekst i otwórz go w edytorze</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>Pomoc</value>
+  </data>
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tłumacz, edytuj bądź dodawaj nowe języki</value>
+  </data>
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
+    <value>Przetłumacz z języka</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Powiększ obraz</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Dziennik logów</value>
+  </data>
+  <data name="Settings_About_Log.Content" xml:space="preserve">
+    <value>Dziennik logów</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Przywróć ustawienia domyślne</value>
+  </data>
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Zaznacz tekst na obrazie</value>
+  </data>
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ponownie rozpoznaj tekst</value>
+  </data>
+  <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
+    <value>Zaznaczony obszar nie zawiera tekstu</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Jasny</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Ciemny</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Użyj motywu systemowego</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
+    <value>Motyw</value>
+  </data>
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
+    <value>Ustawienia aplikacji</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
+    <value>Język</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
+    <value>Język</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Taki sam jak układ klawiatury</value>
+  </data>
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
+    <value>Tłumaczenie</value>
+  </data>
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Taki sam jak układ klawiatury</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>Przywróć</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>Uruchamianie wyłączone ręcznie</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>Przejdź do zakładki Uruchamianie</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>Włącz</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>Wyłącz</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>Rozpoznaj tekst</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>Skopiuj do schowka</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>Przetłumacz</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>Otwórz plik</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>Wykonaj zrzut ekranu</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Wszystkie ustawienia zostaną przywrócone do wartości fabrycznych. Czy chcesz kontynuować?</value>
+  </data>
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Usuń podziały wierszy</value>
+  </data>
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
+    <value>Rozpoznawanie</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Tak, przywróć</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rozpoznaj tekst i skopiuj</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rozpoznaj tekst i przetłumacz</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Skopiuj kolor z ekranu</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Wybierz obszar i otwórz w edytorze</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Zamknij</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>Skopiuj tekst</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>Przetłumacz tekst</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>Kroplomierz</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>Przypnij obszar</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>Edytuj obszar</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Notepad.Text" xml:space="preserve">
+    <value>Notatnik</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Wyjdź</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>Przypnij obszar</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>Kroplomierz</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>Otwórz notatnik</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>Uruchom z systemem</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>Przechwytywanie obrazu nie powiodło się</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Wybierz obszar i przypnij</value>
+  </data>
 </root>
