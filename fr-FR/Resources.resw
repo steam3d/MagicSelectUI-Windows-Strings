@@ -61,4 +61,20 @@
   <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
     <value>Choisissez la langue du texte</value>
   </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Relâchez une image ici pour détecter le texte</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>Pas de texte trouvé dans l'image</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Reconnaissance du texte</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>Appuyez sur {0} pour copier le texte de l'écran ou relâchez une image ici pour détecter le texte</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>L'application capturé semble être minimisé............(A FINIR...).</value>
+  </data>
 </root>
