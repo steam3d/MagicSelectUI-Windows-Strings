@@ -75,6 +75,6 @@
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
   <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
-    <value>L'application capturé semble être minimisé............(A FINIR...).</value>
+    <value></value>
   </data>
 </root>
