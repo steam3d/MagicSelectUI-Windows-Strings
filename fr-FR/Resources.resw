@@ -74,7 +74,4 @@
     <value>Appuyez sur {0} pour copier le texte de l'écran ou relâchez une image ici pour détecter le texte</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
-  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
-    <value></value>
-  </data>
 </root>
