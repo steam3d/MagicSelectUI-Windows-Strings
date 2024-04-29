@@ -74,4 +74,7 @@
     <value>Appuyez sur {0} pour copier le texte de l'écran ou relâchez une image ici pour détecter le texte</value>
     <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
   </data>
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Copier le texte</value>
+  </data>
 </root>
