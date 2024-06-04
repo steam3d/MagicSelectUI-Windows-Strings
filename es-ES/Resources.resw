@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,226 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>La aplicación capturada parece estar minimizada. Expande la aplicación e intenta tomar la captura de pantalla nuevamente.</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Restablecer la configuración predeterminada</value>
+  </data>
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Usar el idioma del sistema</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
+    <value>Reconocer texto y abrir en el editor</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
+    <value>Abra la configuración de Windows en la página de la aplicación, vaya a Inicio, habilite «MagicSelect Teclas de acceso rápido» y reinicie la aplicación.</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
+    <value>Las dimensiones de la imagen ({0}x{1}) son demasiado grandes para el reconocimiento de texto. La dimensión máxima de la imagen es {2}.</value>
+    <comment>Example: Image dimensions (3850x3850) are too big for text recognition. Max image dimension is 1920.</comment>
+  </data>
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Copiar texto</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>Tecla de acceso rápido {0}</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Eliminar saltos de línea</value>
+  </data>
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Seleccionar texto en imagen</value>
+  </data>
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Volver a reconocer el texto</value>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Suelte el archivo de imagen aquí para el reconocimiento de texto</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>No se encontró texto en la imagen</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Reconocer texto</value>
+  </data>
+  <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
+    <value>El área seleccionada no contiene texto</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Claro</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Oscuro</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Usar tema del sistema</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
+    <value>Configuraciones de la aplicación</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
+    <value>Reconocimiento</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Igual que la distribución del teclado</value>
+  </data>
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
+    <value>Traducción</value>
+  </data>
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Igual que la distribución del teclado</value>
+  </data>
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
+    <value>Traducir al idioma</value>
+  </data>
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
+    <value>Teclas de acceso rápido</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
+    <value>Habilitar teclas de acceso rápido</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
+    <value>Reconocer texto y copiarlo al portapapeles</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
+    <value>Reconocer texto y traducir</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>Consigue ayuda</value>
+  </data>
+  <data name="Settings_About_Log.Content" xml:space="preserve">
+    <value>Registro de depuración</value>
+  </data>
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Añade un poco de magia a tus AirPods</value>
+  </data>
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Traducir, editar o agregar nuevos idiomas</value>
+  </data>
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
+    <value>Traducir del idioma</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ampliar imagen</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Registro de depuración</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>Inicio deshabilitado manualmente</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>Ir a inicio</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>Habilitar</value>
+  </data>
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Elige el idioma del texto</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>Deshabilitar</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>Reconocer texto</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>Copiar al portapapeles</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>Traducir</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>Abrir archivo</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>Tomar captura de pantalla</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Se restablecerán todas las configuraciones. ¿Quieres continuar?</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Sí, restablecer la configuración</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Reconocer texto y copiar</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Reconocer texto y traducir</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Copiar color de la pantalla</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Seleccione un área y fije</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Seleccione un área y ábrala en el editor</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Cerrar</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>Copiar texto</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>Traducir texto</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>Vista</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>Fijar el área</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>Editar el área</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Notepad.Text" xml:space="preserve">
+    <value>Bloc</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>Fijar el área</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>Vista</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>Abrir bloc de notas</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>Corre al iniciar</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>No se pudo capturar la imagen</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>Presione {0} para copiar texto de la pantalla o soltar el archivo de imagen aquí para reconocer el texto</value>
+    <comment>{0} - will be replaced on the actual hotkey "ALT + L"</comment>
+  </data>
 </root>
