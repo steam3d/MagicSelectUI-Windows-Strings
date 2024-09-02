@@ -214,4 +214,22 @@
   <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
     <value>Képernyőkép készítése</value>
   </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Összes beállítás el fog veszni. Biztos folytatni akarod?</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Szöveg felismerése és másolása</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Szöveg felismerése és fordítása</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Igen, beállítások vissza állítása</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Szín másolása a képernyőről</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Terület kijelölése és kitűzés</value>
+  </data>
 </root>
