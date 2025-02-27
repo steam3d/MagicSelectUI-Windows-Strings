@@ -238,4 +238,7 @@
   <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
     <value>Apri impostazioni Windows sulla pagina Applicazione, vai su Startup, abilita &lt;&lt;MagicSelect Hotkeys&gt;&gt; e riavvia l'app.</value>
   </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>beFneg-0curpy-hujzuq</value>
+  </data>
 </root>
