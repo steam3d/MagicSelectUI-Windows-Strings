@@ -76,4 +76,19 @@
   <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
     <value>लाइन ब्रेक हटाएं</value>
   </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>स्क्रीन से टेक्स्ट कॉपी करने के लिए {0} दबाएं या टेक्स्ट पहचान के लिए यहां इमेज फ़ाइल छोड़ें</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>हॉटकी {0}</value>
+  </data>
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>छवि पर टेक्स्ट चुनें</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>कैप्चर की गई ऐप्लिकेशन मिनिमाइज़्ड लगती है। ऐप को बड़ा करें और फिर से स्क्रीनशॉट लेने का प्रयास करें।</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
+    <value>छवि के आयाम ({0}x{1}) टेक्स्ट पहचान के लिए बहुत बड़े हैं। अधिकतम छवि आयाम {2} है।</value>
+  </data>
 </root>
