@@ -91,4 +91,61 @@
   <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>छवि के आयाम ({0}x{1}) टेक्स्ट पहचान के लिए बहुत बड़े हैं। अधिकतम छवि आयाम {2} है।</value>
   </data>
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>पाठ को पुनः पहचानें</value>
+  </data>
+  <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
+    <value>चयनित क्षेत्र में कोई पाठ नहीं है</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>रोशनी/सफ़ेद</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>अँधेरा/काला</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>सिस्टम थीम का उपयोग करें</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
+    <value>रंग थीम</value>
+  </data>
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
+    <value>एप के सेटिंग्स</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
+    <value>भाषा</value>
+  </data>
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
+    <value>पहचान</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
+    <value>भाषा</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>कीबोर्ड लेआउट के समान</value>
+  </data>
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
+    <value>अनुवाद</value>
+  </data>
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>कीबोर्ड लेआउट के समान</value>
+  </data>
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
+    <value>भाषा को अनुवाद</value>
+  </data>
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>सिस्टम भाषा का उपयोग करें</value>
+  </data>
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
+    <value>हॉटकी</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
+    <value>हॉटकी सक्षम करें</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
+    <value>पाठ को पहचानें और क्लिपबोर्ड पर कॉपी</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
+    <value>पाठ पहचानें और अनुवाद</value>
+  </data>
 </root>
