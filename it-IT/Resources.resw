@@ -62,7 +62,7 @@
     <value>Copia testo</value>
   </data>
   <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Scegli lingua di testo</value>
+    <value>Scegli lingua</value>
   </data>
   <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
     <value>Le dimensioni dell'immagine ({0}x{1}) sono troppo grandi per il riconoscimento del testo. Le dimensioni massime sono {2}.</value>
