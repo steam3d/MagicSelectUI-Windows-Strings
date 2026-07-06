@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,223 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DropFiles_ComboBox_ChooseTextLanguage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Vyberte jazyk textu</value>
+  </data>
+  <data name="DropFiles_Button_CopyText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kopírovat text</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.Title" xml:space="preserve">
+    <value>Rozměr obrazového souboru ({0}x{1}) jsou příliš velké k rozpoznání textu. Maximální rozměr souboru je {2}.</value>
+  </data>
+  <data name="DropFiles_MainHelpText.Text" xml:space="preserve">
+    <value>Stiskněte {0} ke zkopírování textu z obrazovky nebo zde vložte snímek k rozpoznání textu</value>
+  </data>
+  <data name="DropFiles_MainHelpText_ARM.Text" xml:space="preserve">
+    <value>Zde vložte obrazový soubor k rozpoznání textu</value>
+  </data>
+  <data name="DropFiles_TextNotFound.Text" xml:space="preserve">
+    <value>Na obrázku nebyl nalezen žádný text</value>
+  </data>
+  <data name="DropFile_DragAndDrop_MainText" xml:space="preserve">
+    <value>Rozpoznat text</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Content" xml:space="preserve">
+    <value>Zdá se, že snímaná apliakce je minimalizovaná. Rozblate aplikaci a zkuste znovu pořídit snímek obrazovky.</value>
+  </data>
+  <data name="Tooltip_Hotkey" xml:space="preserve">
+    <value>Klávesová zkratka {0}</value>
+  </data>
+  <data name="DropFiles_Button_RemoveLineBreaks.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Odstranit zalomení řádku</value>
+  </data>
+  <data name="DropFiles_Button_SelectORCText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Vyberte text na snímku</value>
+  </data>
+  <data name="DropFiles_Button_UpdateExtractedText.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Znovu rozpoznat text</value>
+  </data>
+  <data name="DropFiles_EmptySelection.Text" xml:space="preserve">
+    <value>Označená oblast neobsahuje žádný text</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Světlý</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tmavý</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Použít systémové téma</value>
+  </data>
+  <data name="Settings_AppSettings_Header.Header" xml:space="preserve">
+    <value>Nastavení aplikace</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Language.Header" xml:space="preserve">
+    <value>Jazyk</value>
+  </data>
+  <data name="Settings_Recognition_Header.Header" xml:space="preserve">
+    <value>Rozpoznávání</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language.Header" xml:space="preserve">
+    <value>Jazyk</value>
+  </data>
+  <data name="Settings_Recognition_Setting_Language_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Stejný jako rozložení klávesnice</value>
+  </data>
+  <data name="Settings_Translation_Header.Header" xml:space="preserve">
+    <value>Překlad</value>
+  </data>
+  <data name="Settings_Translation_Setting_From_Item_KeyboardLayout.Text" xml:space="preserve">
+    <value>Stejný jako rozložení klávesnice</value>
+  </data>
+  <data name="Settings_Translation_Setting_To.Header" xml:space="preserve">
+    <value>Přeložit do jazyka</value>
+  </data>
+  <data name="Settings_Translation_Setting_To_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Použít jazyk systému</value>
+  </data>
+  <data name="Settings_Hotkeys_Header_Hotkeys.Header" xml:space="preserve">
+    <value>Klávesové zkratky</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_EnableHotkeys.Header" xml:space="preserve">
+    <value>Povolit klávesové zkratky</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToClipboard.Header" xml:space="preserve">
+    <value>Rozpoznat text a zkopírovat do schránky</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
+    <value>Rozpoznat text a přeložit</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
+    <value>Rozpoznat text a otevřít v editoru</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>Získat pomoc</value>
+  </data>
+  <data name="Settings_About_Log.Content" xml:space="preserve">
+    <value>Protokol ladění</value>
+  </data>
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Přidejte svým AirPodům trochu magie</value>
+  </data>
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Přeložit, upravit nebo přidat nové jazyky</value>
+  </data>
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
+    <value>Přeložit z jazyka</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Přiblížit obrázek</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Protokol ladění</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Obnovit výchozí nastavení</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>Resetovat</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>Ruční spuštění zakázáno</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>Přejít na Startup</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>Zrušit</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Content" xml:space="preserve">
+    <value>Otevřete nastavení systému Windows na stránce Aplikace, přejděte do nabídky Po spuštění, povolte klávesové zkratky „MagicSelect“ a restartujte aplikaci.</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>Povolit</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>Zakázat</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>Rozpoznat text</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>Zkopírovat do schránky</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>Přeložit</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>Otevřít soubor</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>Pořídit snímek obrazovky</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Všechna nastavení budou resetována. Chcete pokračovat?</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Ano, resetovat nastavení</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rozpoznat text a zkopírovat</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rozpoznat text a přeložit</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Zkopírovat barvu z obrazovky</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Vybrat oblast a připnout</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Vybrat oblast a otevřit v editoru</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Zavřít</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>Zkopírovat text</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>Přeložit text</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Eyedropper.Text" xml:space="preserve">
+    <value>Kapátko</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>Připnout oblast</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>Upravit oblast</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Notepad.Text" xml:space="preserve">
+    <value>Poznámkový blok</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Ukončit</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>Připnout oblast</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>Kapátko</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>Otevřít poznámkový blok</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>Spustit při spuštění</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>Snímek se nepodařilo zachytit</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Theme.Header" xml:space="preserve">
+    <value>Téma</value>
+  </data>
 </root>
