@@ -148,4 +148,118 @@
   <data name="Settings_Hotkeys_Setting_SelectToTranslate.Header" xml:space="preserve">
     <value>पाठ पहचानें और अनुवाद</value>
   </data>
+  <data name="Settings_Hotkeys_Setting_SelectToEdit.Header" xml:space="preserve">
+    <value>शब्द को पहचानें और एडिटर में खोलें</value>
+  </data>
+  <data name="Settings_About_Help.Content" xml:space="preserve">
+    <value>मदद लें</value>
+  </data>
+  <data name="Settings_About_MagicPods.ToolTipService.ToolTip" xml:space="preserve">
+    <value>अपने एयरपॉड्स में थोड़ा जादू जोड़ें</value>
+  </data>
+  <data name="Settings_About_Weblate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>अनुवाद करें, एडिट करें या नई भाषाएँ जोड़ें</value>
+  </data>
+  <data name="Settings_Translation_Setting_From.Header" xml:space="preserve">
+    <value>भाषा से अनुवाद करें</value>
+  </data>
+  <data name="DropFiles_Button_ZoomImage.ToolTipService.ToolTip" xml:space="preserve">
+    <value>चित्र ज़ूम करें</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>डिफ़ॉल्ट सेटिंग्स पर रीसेट करें</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Reset.Content" xml:space="preserve">
+    <value>रीसेट करें</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.Title" xml:space="preserve">
+    <value>स्टार्टअप को मैन्युअली डिसेबल कर दिया गया है</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.PrimaryButtonText" xml:space="preserve">
+    <value>स्टार्टअप पर जाएं</value>
+  </data>
+  <data name="Settings_AppSettings_ContentDialogStartup.CloseButtonText" xml:space="preserve">
+    <value>रद्द करें</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Enable.Content" xml:space="preserve">
+    <value>चालू करें</value>
+  </data>
+  <data name="Settings_AppSettings_ToggleButtonStartup_Disable.Content" xml:space="preserve">
+    <value>बंद करें</value>
+  </data>
+  <data name="CommandBar_Button_SelectToEdit.Text" xml:space="preserve">
+    <value>टेक्स्ट पहचानें</value>
+  </data>
+  <data name="CommandBar_Button_SelectToClipboard.Text" xml:space="preserve">
+    <value>क्लिपबोर्ड पर कॉपी करें</value>
+  </data>
+  <data name="CommandBar_Button_SelectToTranslate.Text" xml:space="preserve">
+    <value>अनुवाद</value>
+  </data>
+  <data name="CommandBar_Button_OpenFile.Label" xml:space="preserve">
+    <value>फ़ाइल खोलें</value>
+  </data>
+  <data name="CommandBar_Button_TakeScreenshoot.Label" xml:space="preserve">
+    <value>स्क्रीनशॉट लें</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>सभी सेटिंग्स रीसेट हो जाएंगी। क्या आप जारी रखना चाहते हैं?</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>हाँ, सेटिंग्स रीसेट करें</value>
+  </data>
+  <data name="Selection_Toolbar_Copy.ToolTipService.ToolTip" xml:space="preserve">
+    <value>टेक्स्ट पहचानें और कॉपी करें</value>
+  </data>
+  <data name="Selection_Toolbar_Translate.ToolTipService.ToolTip" xml:space="preserve">
+    <value>टेक्स्ट पहचानें और अनुवाद करें</value>
+  </data>
+  <data name="Selection_Toolbar_Eyedropper.ToolTipService.ToolTip" xml:space="preserve">
+    <value>स्क्रीन से रंग कॉपी करें</value>
+  </data>
+  <data name="Selection_Toolbar_PinArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>एक क्षेत्र चुनें और पिन करें</value>
+  </data>
+  <data name="Selection_Toolbar_EditArea.ToolTipService.ToolTip" xml:space="preserve">
+    <value>एक क्षेत्र चुनें और एडिटर में खोलें</value>
+  </data>
+  <data name="Selection_Toolbar_Close.ToolTipService.ToolTip" xml:space="preserve">
+    <value>बंद करें</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Copy.Text" xml:space="preserve">
+    <value>टेक्स्ट कॉपी करें</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_Translate.Text" xml:space="preserve">
+    <value>टेक्स्ट का अनुवाद करें</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_PinArea.Text" xml:space="preserve">
+    <value>क्षेत्र को पिन करें</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Tool_EditArea.Text" xml:space="preserve">
+    <value>क्षेत्र को एडिट करें</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>बाहर निकलें</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_PinArea.Header" xml:space="preserve">
+    <value>क्षेत्र को पिन करें</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_Eyedropper.Header" xml:space="preserve">
+    <value>आईड्रॉपर</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenNotepad.Header" xml:space="preserve">
+    <value>नोटपैड खोलें</value>
+  </data>
+  <data name="Settings_AppSettings_Setting_Startup.Header" xml:space="preserve">
+    <value>स्टार्टअप पर चलाएं</value>
+  </data>
+  <data name="DropFiles_ContentDialogMaxDimension.CloseButtonText" xml:space="preserve">
+    <value>ठीक है</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.Title" xml:space="preserve">
+    <value>इमेज कैप्चर नहीं हो पाई</value>
+  </data>
+  <data name="OrcCommandBarControl_ContentDialogTimeout.CloseButtonText" xml:space="preserve">
+    <value>ठीक है।</value>
+  </data>
 </root>
